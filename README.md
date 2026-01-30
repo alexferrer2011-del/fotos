@@ -1,2 +1,2 @@
 # fotos
-Fotos de trabajp
+Fotos de trabajo
